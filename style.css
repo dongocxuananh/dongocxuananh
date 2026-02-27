@@ -9,7 +9,7 @@ background-color: #CDCD00;
 }
 .menu{
 flex: 5%;
-  background-color: #0A44AA;
+  background-color: gray;
   display: flex;
 }
 .menu a{
