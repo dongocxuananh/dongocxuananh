@@ -10,6 +10,15 @@ background-color: #CDCD00;
 .menu{
 flex: 5%;
   background-color: #0A44AA;
+  display: flex;
+}
+.menu a{
+  padding: 15px 20px;
+  color: blue;
+}
+.menu hover{
+  background colof: lightgray;
+ color: black;
 }
 .content{
 flex: 70%;
