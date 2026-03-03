@@ -6,7 +6,7 @@ display: flex;
 .header{
 flex: 15%;
 background-color: #CDCD00;
-  background: url("images/banner.png") center;
+  background: url("image/banner.png") center;
 }
 .menu{
 flex: 5%;
