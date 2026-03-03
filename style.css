@@ -16,10 +16,10 @@ flex: 5%;
 }
 .menu a{
   padding: 15px 20px;
-  color: blue;
+  color:#0a44aa;
 }
 .menu hover{
-  background-color:0a44aa;
+  background-color:	#f7b3d8;
  color: black;
 }
 .content{
@@ -39,7 +39,7 @@ background-color: #CDCD00;
 
 
 h1 {
-  color: 007328;
+  color: #007328;
   top-margin: 25pt;
 }
 .tuade {
