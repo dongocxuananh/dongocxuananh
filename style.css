@@ -9,7 +9,7 @@ background-color: #CDCD00;
 }
 .menu{
 flex: 5%;
-  background-color: gray;
+  background-color: #0a44aa;
   display: flex;
   text-align: center:
 }
@@ -18,7 +18,7 @@ flex: 5%;
   color: blue;
 }
 .menu hover{
-  background-color: lightgray;
+  background-color:0a44aa;
  color: black;
 }
 .content{
