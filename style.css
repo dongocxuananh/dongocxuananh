@@ -5,13 +5,13 @@ display: flex;
 }
 .header{
 flex: 15%;
-background-color: #CDCD00;
+background-color: CDCD00;
   background: url("image/banner.png") center / 100%;
 aspect-ratio: 6 / 1;
 }
 .menu{
 flex: 5%;
-  background-color: CDCD00;
+  background-color: AA0037;
   display: flex;
   text-align: center;
 }
@@ -19,8 +19,8 @@ flex: 5%;
   padding: 15px 20px;
 }
 .menu hover{
-  background-color:	f7b3d8;
- color:f7b3d8;
+  background-color: 0a44aa;
+ color:0a44aa;
 }
 .content{
 flex: 70%;
@@ -34,7 +34,7 @@ border: none;
 }
 .footer{
 flex: 10%;
-background-color: CDCD00;
+background-color: 007328;
 }
 
 
