@@ -20,7 +20,7 @@ flex: 5%;
 }
 .menu a:hover{
   background-color: 0a44aa;
- color:0a44aa;
+ color:white;
 }
 .content{
 flex: 70%;
