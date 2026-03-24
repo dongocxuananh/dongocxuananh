@@ -5,8 +5,8 @@ display: flex;
 }
 .header{
 flex: 15%;
-background-color: CDCD00;
-  background: url("image/20260310_083756.jpg") center;
+background-color: CDCD00;"
+  background: url("image/banner.jpg") center;
 aspect-ratio: 6 / 1;
 }
 .menu{
