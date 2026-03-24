@@ -6,8 +6,7 @@ display: flex;
 .header{
 flex: 15%;
 background-color: CDCD00;
-  background: url("image/20260310_083756.jpg") / 100%;
-  background:  <img src="../image/20260310_083756.jpg">
+  background: url("../image/20260310_083756.jpg") / 100%;
 aspect-ratio: 6 / 1;
 }
 .menu{
