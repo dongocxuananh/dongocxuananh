@@ -6,7 +6,7 @@ display: flex;
 .header{
 flex: 22%;
 background-color: CDCD00;
-  background: url("image/banner.jpg") center;
+  background: url("image/banners.jpg") center;
 aspect-ratio: 6 / 1;
 }
 .menu{
