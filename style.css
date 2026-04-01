@@ -7,7 +7,6 @@ display: flex;
 flex: 22%;
 background-color: CDCD00;
   background: url("image/banners.jpg") center;
-aspect-ratio: 6 / 1;
 }
 .menu{
 flex: 3%;
