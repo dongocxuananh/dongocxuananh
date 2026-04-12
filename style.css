@@ -4,7 +4,7 @@ display: flex;
   height: 100vh;
 }
 .header{
-flex: 15%;
+flex: 20%;
 background-color: CDCD00;
   background: url("image/banners.jpg") center;
 }
@@ -24,7 +24,7 @@ flex: 5%;
  color:white;
 }
 .content{
-flex: 70%;
+flex: 60%;
   background-color: white;
 }
 .content iframe {
@@ -34,7 +34,7 @@ border: none;
   width: 100%;
 }
 .footer{
-flex: 10%;
+flex: 15%;
 background-color:DBCA77;
 }
 
